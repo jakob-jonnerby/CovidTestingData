@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Department of Health website</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="https://www.doh.gov.ph/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.doh.gov.ph/sites/default/files/css/css_zLzkHsxVNr61dSR3kt8AogiMu9P-Eyo0pHzL2xflZ_g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.doh.gov.ph/sites/default/files/css/css_SacLSTpf_6Rrir5qrPX9qt_357MgjVodoX5W0KDSW98.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.doh.gov.ph/sites/default/files/css/css_WsvrGWzMD_lR29h2-qEYPYWWUmYuE2HBeJlXWzPvCBA.css" media="all" />
+  <script src="https://www.doh.gov.ph/sites/default/files/js/js_dYOGV15VEcvR5zyP3UKzyEH3a6wcYkaWkQCEZ8Wpd8c.js"></script>
+<script src="https://www.doh.gov.ph/sites/default/files/js/js_0YgJ8R5MVpw0yFJs0DS1TA3BcYkCgeIiHy0e0uLBxWk.js"></script>
+<script src="https://www.doh.gov.ph/sites/default/files/js/js_xWmVxEaDp29mXdE7Tl6RCAESx-GWUiXE7Yx2EcT8iBg.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gwt_drupal","theme_token":"7a39hD6bZh0AL13CM9c4gnQQyNUwiXMCX8R0V5yLc6A","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/responsiveslides.min.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation.min.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.abide.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.accordion.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.alert.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.clearing.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.dropdown.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.equalizer.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.interchange.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.joyride.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.magellan.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.offcanvas.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.reveal.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.tab.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.tooltip.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/foundation.topbar.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/foundation\/jquery.cookie.js":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/js\/theme.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/style\/default.css":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/system.menus.css":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/system.messages.css":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/system.theme.css":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/css\/styles.css":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/css\/responsiveslides.css":1,"sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal\/css\/main.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"custom_search":{"form_target":"_self","solr":0},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn","bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn","bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn","bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn","bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut","bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut","bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut","bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut","bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"gwt_drupal":{"theme_path":"https:\/\/www.doh.gov.ph\/sites\/all\/themes\/gwt-drupal-25.3\/sites\/all\/themes\/gwt_drupal"},"urlIsAjaxTrusted":{"\/2019-nCov\/":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":true,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Auxiliary Menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/gwt-drupal-25.3/sites/all/themes/gwt_drupal/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-2019-ncov section-2019-ncov page-views" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      <div id="accessibility-links">
+<ul><li><a href="#main-content" accesskey="R">Skip to Main Content</a></li><li><a href="#footer" accesskey="M">Sitemap</a></li></ul></div>
+<div id="accessibility-shortcuts">
+<ul><li><a href="#" class="skips toggle-statement" title="Toggle Accessibility Statement" accesskey="0">Toggle Accessibility Statement</a></li><li><a href="/faq" class="skips" accesskey="5">Faqs</a></li><li><a href="/%23footer" class="skips" accesskey="c">Contact</a></li><li><a href="/contact" class="skips" accesskey="k">Feedbacks</a></li><li><a href="/search/node/" class="skips" accesskey="s">Search</a></li></ul></div>
+<div id="page">
+
+
+  <div id="navigation">
+    <div class="row">
+            <div class="small-12 large-12 columns toplayer">
+        <nav id="top-bar" role="navigation" class="top-bar nomargin" tabindex="-1" data-topbar>
+          <ul id="main-static-link" class="links inline clearfix">
+            <li id="static-link-gov"><h3><a href="http://www.gov.ph">GOVPH</a></h3></li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+          </ul>
+          <section class="top-bar-section">
+                           <div class="region region-top-bar-right right">
+    
+<div class="divider"></div>
+<div id="block-search-form" class="block block-search first odd" role="search">
+
+      
+  <form class="search-form" role="search" action="/2019-nCov/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><div class="form-item form-type-textfield form-item-search-block-form">
+  <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search by Keyword" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="16" maxlength="128" />
+</div>
+<input type="hidden" name="form_build_id" value="form-B90qkmxho6VUaMfZyuuZEj8zWvkyHc8ecnVcfDZV3j0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+<div class="divider"></div>
+<div id="block-menu-menu-skip-to-menu" class="block block-menu last even" role="navigation">
+
+        <h2 class="block__title block-title">Skip To Menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/accessibility-features" title="" class="menu__link">Accessibility Features</a></li>
+<li class="menu__item is-leaf leaf"><a href="/#superfish-1" title="" class="menu__link">Skip to Content</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/#footer" title="" class="menu__link">Skip to Bottom</a></li>
+</ul>
+</div>  </div>
+                                      <ul class="links clearfix level-0 left"><li class="menu-306 first"><a href="/">Home</a></li>
+<li class="menu-555"><a href="/philippine-transparency-seal">Transparency Seal</a></li>
+<li class="menu-651 last"><a href="/health-programs">Health Programs</a></li>
+</ul>                      </section>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+  <header class="header" id="header" style=" " >
+    <section class="header-section row">
+      <div class="columns large-9">
+                  <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="https://www.doh.gov.ph/sites/default/files/masthead%20logo%20certified.png" alt="Home" class="header__logo-image" /></a>
+        
+        
+              </div>
+                  <div class="columns large-3">
+        <div class="ear-content">
+          <div class="region region-ear-content-2">
+    <div id="block-menu-menu-master-head-menu" class="block block-menu first last odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/faq" title="" class="menu__link">FAQs</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http:\\healthatlas.doh.gov.ph" title="" class="menu__link">Health Maps</a></li>
+</ul>
+</div>
+  </div>
+        </div>
+      </div>
+          </section>
+  </header>
+
+  
+  <div id="auxiliary">
+    <div class="row">
+      <div class="large-12 columns">
+        <div class="aux-nav-btn-container hide-for-medium-up" >
+          <button id="aux-nav-btn" data-dropdown="aux-nav">Auxiliary Menu</button>
+        </div>
+        <div id="aux-nav" class="show-for-medium-up" data-dropdown-content>
+          <section>
+                                                                                </section>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div id="breadcrumbs">
+    <div class="row">
+      <div class="large-12 columns">
+            <nav role="navigation"><ol class="breadcrumbs"><li class="breadcrumbs-here-label">You are here:</li><li><a href="/">Home</a><span class="breadcrumb-separator"></span></li></ol></nav>                              </div>
+    </div>
+  </div>
+  
+  <div id="panel-top">
+    <div class="row">
+                            </div>
+  </div>
+
+  <!-- ADDED BY ASIAGATE - moved highlighted block above main content div -->
+    <div class="row">  <div class="region region-highlighted">
+    <div id="block-superfish-1" class="block block-superfish first last odd">
+
+      
+  <ul id="superfish-1" class="menu sf-menu sf-menu-auxiliary-menu sf-horizontal sf-style-default sf-total-items-9 sf-parent-items-6 sf-single-items-3"><li id="menu-308-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" title="" class="sf-depth-1">Home</a></li><li id="menu-309-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-9 sf-parent-children-2 sf-single-children-7 menuparent"><a href="/about-us" title="" class="sf-depth-1 menuparent">About DOH</a><ul><li id="menu-343-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/profile" title="" class="sf-depth-2">Profile</a></li><li id="menu-505-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/milestones" title="" class="sf-depth-2">Milestones</a></li><li id="menu-347-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/mission-vision" title="" class="sf-depth-2">Mission and Vision</a></li><li id="menu-581-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/organizational-chart" title="" class="sf-depth-2">Organizational Chart</a></li><li id="menu-536-1" class="middle odd sf-item-5 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/doh-family" title="" class="sf-depth-2 menuparent">DOH Family</a><ul><li id="menu-537-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/DOH-family-central-office" title="" class="sf-depth-3">Central Office</a></li><li id="menu-538-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/regional-office-website" title="" class="sf-depth-3">Regional Offices&#039; Websites</a></li><li id="menu-539-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/hospital-website" title="" class="sf-depth-3">Hospital Websites</a></li><li id="menu-540-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/attached-agency-website" title="" class="sf-depth-3">Attached Agencies Website</a></li></ul></li><li id="menu-429-1" class="middle even sf-item-6 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><span title="" class="sf-depth-2 menuparent nolink">Key Officials Directory</span><ul><li id="menu-430-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/executive-committee-directory" title="" class="sf-depth-3">Executive Committee</a></li><li id="menu-431-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/central-office-directory" title="" class="sf-depth-3">Central Office</a></li><li id="menu-432-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/regional-office-directory" title="" class="sf-depth-3">Regional Offices</a></li><li id="menu-433-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/doh-hospitals-directory" title="" class="sf-depth-3">DOH Hospitals</a></li><li id="menu-434-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/doh-attached-agencies-directory" title="" class="sf-depth-3">Attached Agencies</a></li></ul></li><li id="menu-541-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/doh-budget" title="" class="sf-depth-2">DOH Budget</a></li><li id="menu-421-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/location-map" title="" class="sf-depth-2">DOH Location Map</a></li><li id="menu-542-1" class="last odd sf-item-9 sf-depth-2 sf-no-children"><a href="/national-objectives-health" title="" class="sf-depth-2">National Objectives for Health</a></li></ul></li><li id="menu-436-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-4 sf-parent-children-1 sf-single-children-3 menuparent"><span title="" class="sf-depth-1 menuparent nolink">Policies and Laws</span><ul><li id="menu-437-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://dmas.doh.gov.ph:8083" title="" class="sf-depth-2">EOs, AOs, IRRs, MCs, DCs</a></li><li id="menu-1495-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-9 sf-parent-children-0 sf-single-children-9 menuparent"><span title="" class="sf-depth-2 menuparent nolink">Republic Act</span><ul><li id="menu-1494-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/8th_congress" title="" class="sf-depth-3">RA - 8th Congress</a></li><li id="menu-1496-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/9th_congress" title="" class="sf-depth-3">RA - 9th Congress</a></li><li id="menu-1497-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/10th_congress" title="" class="sf-depth-3">RA - 10th Congress</a></li><li id="menu-1498-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/11th_congress" title="" class="sf-depth-3">RA -11th Congress</a></li><li id="menu-1499-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/12th_congress" title="" class="sf-depth-3">RA - 12th Congress</a></li><li id="menu-1500-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/13th_congress" title="" class="sf-depth-3">RA - 13th Congress</a></li><li id="menu-1501-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/14th_congress" title="" class="sf-depth-3">RA - 14th Congress</a></li><li id="menu-1502-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/15th_congress" title="" class="sf-depth-3">RA - 15th Congress</a></li><li id="menu-1503-1" class="last odd sf-item-9 sf-depth-3 sf-no-children"><a href="/16th_congress" title="" class="sf-depth-3">RA - 16th Congress</a></li></ul></li><li id="menu-440-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/notice-of-pubic-hearing" title="" class="sf-depth-2">Notice of Public Hearing</a></li><li id="menu-588-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/policies-and-laws-links" title="" class="sf-depth-2">Links</a></li></ul></li><li id="menu-441-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-3 sf-parent-children-3 sf-single-children-0 menuparent"><span title="" class="sf-depth-1 menuparent nolink">Information Resources</span><ul><li id="menu-449-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/publications" title="" class="sf-depth-2 menuparent">Publications</a><ul><li id="menu-450-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/publications/serials" title="" class="sf-depth-3">Serials</a></li><li id="menu-451-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/publications/non-serials" title="" class="sf-depth-3">Non-Serials</a></li></ul></li><li id="menu-453-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><span title="" class="sf-depth-2 menuparent nolink">Libraries and Resource Centers</span><ul><li id="menu-454-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><span title="" class="sf-depth-3 nolink">Central Library</span></li><li id="menu-455-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><span title="" class="sf-depth-3 nolink">NEC Library</span></li><li id="menu-458-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/ro-libraries" title="" class="sf-depth-3">Regional Office Libraries</a></li><li id="menu-522-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/doh-hospital-libraries" title="" class="sf-depth-3">DOH Hospital Libraries</a></li><li id="menu-523-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/links-libraries-and-resource-center" title="" class="sf-depth-3">Links to other Libraries and Resource Center</a></li></ul></li><li id="menu-1262-1" class="last odd sf-item-3 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><span title="" class="sf-depth-2 menuparent nolink">Strategic Plan</span><ul><li id="menu-1261-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children"><a href="/national-objectives-health" title="" class="sf-depth-3">National Objectives for Health</a></li></ul></li></ul></li><li id="menu-1929-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/press-releases" title="" class="sf-depth-1">Press Releases</a></li><li id="menu-1504-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/health-calendar" title="" class="sf-depth-1">Health Calendar</a></li><li id="menu-414-1" class="middle odd sf-item-7 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><span title="" class="sf-depth-1 menuparent nolink">Secretary&#039;s Corner</span><ul><li id="menu-415-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/doh-secretaries" title="" class="sf-depth-2">DOH Secretaries</a></li></ul></li><li id="menu-1344-1" class="middle even sf-item-8 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/procurement" title="" class="sf-depth-1 menuparent">Procurement</a><ul><li id="menu-1549-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://www.philgeps.gov.ph/AgencyAPI/AgencyLinking.aspx?view=0x01002A62AC5BF7DCD7725D444A68D348344C19A780A58849F728F7DCD7725D444A68D348344C19A780A58849F728" title="" class="sf-depth-2">PhilGEPS</a></li></ul></li><li id="menu-1545-1" class="last odd sf-item-9 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><span title="" class="sf-depth-1 menuparent nolink">Health Systems</span><ul><li id="menu-1547-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="http://nhfr.doh.gov.ph" title="" class="sf-depth-2">Health Facilities</a></li><li id="menu-1548-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="http://ehealth.doh.gov.ph" title="" class="sf-depth-2">eHealth</a></li></ul></li></ul>
+</div>
+  </div>
+</div>
+  <!-- END -->
+  
+  <div id="main" role="document">
+    <div class="row">
+      
+      <div id="content" class="columns column large-9 medium-9" role="main">
+                <div class="panel">
+        </?php print render($page['highlighted']); ?> <!-- MODIFIED BY ASIAGATE -->
+        <a id="main-content"></a>
+                
+        
+        
+        
+                                  <div class="region region-content">
+    
+
+<div class="view view-2019-ncov view-id-2019_ncov view-display-id-page table-layout-styled view-dom-id-cbb058f8ef17705085923a2c68773946">
+            <div class="view-header">
+       <h2 style="box-sizing: border-box; margin: 30px 0px 10px; padding: 0px 0px 5px; font-family: &quot;Open Sans&quot;, sans-serif; font-weight: normal; font-style: normal; color: rgb(51, 51, 51); text-rendering: optimizelegibility; line-height: 1.1; font-size: 20px; border-bottom: 1px solid rgb(204, 204, 204); font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><strong><span style="box-sizing: border-box; font-family: Arial; font-size: 20px;">UPDATES ON NOVEL CORONAVIRUS DISEASE (COVID-19)</span></strong></h2>  <br /><p style="font-size:16px;"><i>Information may change at any time due to the evolving situation.</i></p> <div id="block-block-17" class="block block-block first odd">
+
+      
+   <h3 style="box-sizing: border-box; margin: 30px 0px 10px; padding: 0px 0px 5px; font-family: &quot;Open Sans&quot;, sans-serif; font-weight: normal; font-style: normal; color: rgb(51, 51, 51); text-rendering: optimizelegibility; line-height: 1.1; font-size: 20px; border-bottom: 1px solid rgb(204, 204, 204); font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box; font-weight: bold; line-height: inherit;"><span style="box-sizing: border-box; font-family: Arial; font-size: 20px;">Laboratory Status of Patients in the Philippines (as of 25 March 2020; 04:00 PM)</span></strong></h3><div style="box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; max-width: 100%; overflow-x: auto;"><table style="background-color:transparent;border-collapse:collapse;border-radius:0px;border-spacing:0px;box-sizing:border-box;margin-bottom:1rem;width:920px;"><tbody style="box-sizing: border-box; border: 1px solid rgb(241, 241, 241); background-color: rgb(254, 254, 254);"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240);"><p style="box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; font-family: &quot;Open Sans&quot;, sans-serif; text-align: center;"><span style="box-sizing: border-box; font-size: 16px;"><span style="box-sizing: border-box; font-family: Arial;"><strong style="box-sizing: border-box; font-weight: bold; line-height: inherit;">Confirmed cases</strong></span></span></p></td><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); width: 341px; text-align: center;"><p style="box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; text-align: center;"><font face="Arial"><b>636</b></font></p></td></tr><tr style="box-sizing: border-box; background-color: rgb(241, 241, 241);"><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><p style="box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; font-family: &quot;Open Sans&quot;, sans-serif;"><strong style="box-sizing: border-box; font-weight: bold; line-height: inherit;"><span style="box-sizing: border-box; font-family: Arial; font-size: 16px;"> Cases tested negative</span></strong></p></td><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); width: 341px; text-align: center;"><p style="box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; text-align: center;"><font face="Arial"><b>728</b></font></p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><p style="box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; font-family: &quot;Open Sans&quot;, sans-serif;"><strong style="box-sizing: border-box; font-weight: bold; line-height: inherit;"><span style="box-sizing: border-box; font-family: Arial; font-size: 16px;"> Cases pending test results </span></strong></p></td><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); width: 341px;"><p style="box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; text-align: center;"><font face="Arial"><b>595</b></font></p></td></tr></tbody></table></div><p> </p> 
+</div>
+<div id="block-block-21" class="block block-block even">
+
+      
+   <h3 style="box-sizing: border-box; margin: 30px 0px 10px; padding: 0px 0px 5px; font-family: &quot;Open Sans&quot;, sans-serif; font-weight: normal; font-style: normal; color: rgb(51, 51, 51); text-rendering: optimizelegibility; line-height: 1.1; font-size: 20px; border-bottom: 1px solid rgb(204, 204, 204); font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box; font-weight: bold; line-height: inherit;"><span style="box-sizing: border-box; font-family: Arial; font-size: 20px;">COVID-19 Case Tracker <a href="https://ncovtracker.doh.gov.ph/" target="_blank">[view in Full Screen]</a></span></strong><a href="https://ncovtracker.doh.gov.ph/" style="font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, sans-serif; font-size: 13.008px;" target="_blank"><iframe height="600px" src="https://ncovtracker.doh.gov.ph" width="100%"></iframe></a></h3> 
+</div>
+ <h2 style="box-sizing: border-box; margin: 30px 0px 10px; padding: 0px 0px 5px; font-family: &quot;Open Sans&quot;, sans-serif; font-weight: normal; font-style: normal; color: rgb(51, 51, 51); text-rendering: optimizelegibility; line-height: 1.1; font-size: 20px; border-bottom: 1px solid rgb(204, 204, 204); font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><strong><span style="box-sizing: border-box; font-family: Arial; font-size: 20px;">Latest Updates</span></strong></h2>     </div>
+  
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-3" >
+         <thead>
+      <tr>
+                  <th class="views-field views-field-field-date"  scope="col">
+            Date          </th>
+                  <th class="views-field views-field-field-time views-align-center"  scope="col">
+            Time          </th>
+                  <th class="views-field views-field-body"  scope="col">
+            Update          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-field-date" >
+            <span class="date-display-single">March 24, 2020</span>          </td>
+                  <td class="views-field views-field-field-time views-align-center" >
+            12:30 PM          </td>
+                  <td class="views-field views-field-body" >
+             <p><a href="//www.doh.gov.ph/doh-press-release/-DOH-URGES-TB-PATIENTS-TO-GET-1-MONTH-SUPPLY-OF-MEDS-DURING%20-COVID-19-QUARANTINE" target="_blank"><span style="margin: 0px; padding: 0px; border: 0px none; vertical-align: baseline; text-decoration: none; font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, sans-serif; font-size: 13.008px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-size: 16px;"><strong style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline;">DOH issues Press Release: DOH urges TB patients to get 1-month supply of meds during COVID-19 quarantine</strong></span></span></a><br style="color: rgb(0, 0, 0); font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, sans-serif; font-size: 13.008px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;" /><em style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(0, 0, 0); font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, sans-serif; font-size: 13.008px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Department of Health (DOH) Secretary Francisco Duque III today urged Filipinos undergoing treatment for active tuberculosis (TB) disease to get their free medicines good for one month instead of going to the health facility for their daily dose of TB medicines ...</em></p>           </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-date" >
+            <span class="date-display-single">March 21, 2020</span>          </td>
+                  <td class="views-field views-field-field-time views-align-center" >
+            11:30 AM          </td>
+                  <td class="views-field views-field-body" >
+             <p><a href="//www.doh.gov.ph/doh-press-release/more-covid-test-kits-arriving-5-sub-national-labs-now-operational" target="_blank"><span style="margin: 0px; padding: 0px; border: 0px none; vertical-align: baseline; text-decoration: none; font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, sans-serif; font-size: 13.008px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-size: 16px;"><strong style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline;">DOH issues Press Release: More COVID-19 test kits arriving, 5 sub-national labs now operational</strong></span></span></a><br style="color: rgb(0, 0, 0); font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, sans-serif; font-size: 13.008px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;" /><em style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(0, 0, 0); font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, sans-serif; font-size: 13.008px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">In line with its strategy to #BeatCovid19, DOH is accelerating its COVID-19 testing capacity.<span> </span></em><br style="color: rgb(0, 0, 0); font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, sans-serif; font-size: 13.008px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;" /><em style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(0, 0, 0); font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, sans-serif; font-size: 13.008px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">In addition to the current 1,300 available kits and recently delivered kits (2,050) from China and South Korea, DOH is anticipating additional 120,500 units from different countries, such as China, Korea, and Brunei ...</em></p>           </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-date" >
+            <span class="date-display-single">March 17, 2020</span>          </td>
+                  <td class="views-field views-field-field-time views-align-center" >
+            9:00 PM          </td>
+                  <td class="views-field views-field-body" >
+             <p><a href="//www.doh.gov.ph/node/20275" target="_blank"><span style="font-size: 16px;"><strong>DOH issues Press Release: DOH launches COVID-19 hotlines 1555, 02-894-COVID</strong></span></a><br /><em style="font-size: 13.008px;">DOH launched the DOH COVID-19 emergency hotlines 02-894-COVID (02-894-26843) and 1555 in partnership with the National Emergency Hotline of the Department of Interior and Local Government (DILG), and PLDT and its wireless subsidiary Smart Communications Inc...</em></p>           </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-date" >
+            <span class="date-display-single">March 16, 2020</span>          </td>
+                  <td class="views-field views-field-field-time views-align-center" >
+            8:00 PM          </td>
+                  <td class="views-field views-field-body" >
+             <p><a href="//www.doh.gov.ph/node/20274" target="_blank"><span style="font-size: 16px;"><strong>DOH issues Press Release: DOH reports 1st recovered COVID-19 Filipino case; brings total to 3</strong></span></a><br /><em style="font-size: 13.008px;">The Department of Health confirmed reports of the recovery and subsequent discharge of a Filipino COVID-19 case. This brings the total of recovered patients in the Philippines to 3 ...</em><br /> </p>           </td>
+              </tr>
+          <tr class="odd views-row-last">
+                  <td class="views-field views-field-field-date" >
+            <span class="date-display-single">March 16, 2020</span>          </td>
+                  <td class="views-field views-field-field-time views-align-center" >
+            6:00 PM          </td>
+                  <td class="views-field views-field-body" >
+             <p><a href="//www.doh.gov.ph/node/20274" target="_blank"><span style="font-size: 16px;"><strong>DOH issues Press Release: DFA bring home Filipinos from M/V Grand Princess</strong></span></a><br /><em style="font-size: 13.008px;">The Department of Foreign Affairs (DFA) and the Department of Health (DOH) repatriated 444 Overseas Filipinos (OFs) from the M/V Grand Princess cruise ship docked in the Port of Oakland in California, USA early morning of March 16, 2020...</em></p>           </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/2019-nCov?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/2019-nCov?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/2019-nCov?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/2019-nCov?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/2019-nCov?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/2019-nCov?page=6">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/2019-nCov?page=7">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/2019-nCov?page=8">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/2019-nCov?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/2019-nCov?page=19">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+                </div>
+      </div>
+
+                  <aside id="sidebar-second" class="columns sidebars large-3 medium-3" role="complementary">
+          <section class="region region-sidebar-second column sidebar">
+    <div id="block-block-18" class="block block-block first odd">
+
+        <h5 class="block__title block-title">Daily Global Situation (Data as of 23 March 2020)</h5>
+    
+   <table style="width:250px;"><tbody><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; margin: 0px; border: 2px ridge rgb(0, 176, 240); white-space: nowrap;"><p style="box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; font-family: &quot;Open Sans&quot;, sans-serif; text-align: center;"><strong><span id="m_3869356781731265551gmail-docs-internal-guid-ee9c4cde-7fff-d01a-07d6-a55e69604808"><span style="font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">Global</span></span></strong></p></td><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); width: 341px; text-align: center;"><p style="box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; font-family: &quot;Open Sans&quot;, sans-serif; text-align: center;">372,757 confirmed (39,827 new)</p></td></tr><tr style="box-sizing: border-box; background-color: rgb(241, 241, 241);"><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><p style="box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; font-family: &quot;Open Sans&quot;, sans-serif;"><span style="font-size:12px;"><strong style="box-sizing: border-box; font-weight: bold; line-height: inherit;"><span style="box-sizing: border-box; font-family: Arial;"> <span id="m_3869356781731265551gmail-docs-internal-guid-ee9c4cde-7fff-d01a-07d6-a55e69604808"><span style="font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">South-East Asia</span></span></span></strong></span></p></td><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); width: 341px; text-align: center;"><p style="box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; font-family: &quot;Open Sans&quot;, sans-serif; text-align: center;">1,990 confirmed<br />(214 new)</p></td></tr></tbody></table><p>Source: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/" target="_blank">World Health Organization</a></p> 
+</div>
+<div id="block-block-14" class="block block-block last even">
+
+        <h5 class="block__title block-title">Resources</h5>
+    
+   <table style="width:250px;"><tbody><tr><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><a href="//www.doh.gov.ph/COVID-19/FAQs" target="_blank"><font face="Arial"><span style="font-size: 16px;"><b>FAQs</b></span></font></a></td></tr><tr><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><a href="//www.doh.gov.ph/2019-nCov/interim-guidelines" target="_blank"><font face="Arial"><span style="font-size: 16px;"><b>Interim Guidelines</b></span></font></a></td></tr><tr><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><a href="//www.doh.gov.ph/sites/default/files/UPDATED%20DECISION%20TOOL.pdf" target="_blank"><font face="Arial"><span style="font-size: 16px;"><b>Screening Tool for COVID-19</b></span></font></a></td></tr><tr><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><a href="//www.doh.gov.ph/2019-nCov/advisories" target="_blank"><font face="Arial"><span style="font-size: 16px;"><b>Public Advisories</b></span></font></a></td></tr><tr><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><a href="//www.doh.gov.ph/COVID-19/Gabay-sa-Publiko" target="_blank"><font face="Arial"><span style="font-size: 16px;"><b>Gabay sa Publiko</b></span></font></a></td></tr><tr><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><a href="//www.doh.gov.ph/2019-nCov/infographics" target="_blank"><font face="Arial"><span style="font-size: 16px;"><b>Infographics</b></span></font></a></td></tr><tr><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><a href="//www.doh.gov.ph/covid-19/case-tracker" target="_blank"><font face="Arial"><span style="font-size: 16px;"><b>Case Tracker</b></span></font></a></td></tr><tr><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><a href="//www.doh.gov.ph/2019-nCov/situational-report" target="_blank"><font face="Arial"><span style="font-size: 16px;"><b>Situational Report</b></span></font></a></td></tr><tr><td style="box-sizing: border-box; padding: 0.5rem 0.625rem 0.625rem; margin: 0px; border: 2px ridge rgb(0, 176, 240); text-align: center;"><a href="//www.doh.gov.ph/2019-ncov-presscon" target="_blank"><font face="Arial"><span style="font-size: 16px;"><b>Press Briefings</b></span></font></a></td></tr></tbody></table><p> </p> 
+</div>
+  </section>
+      </aside>
+          </div>
+  </div>
+
+  <div id="panel-bottom">
+    <div class="row">
+                            </div>
+  </div>
+
+    <footer id="footer">
+    <div class="row">
+            <div class="columns large-3">
+        <div class="region region-footer">
+	<div id="block-menu-menu-footer-1" class="block block-menu first last odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-expanded first expanded"><span title="" class="menu__link nolink">About DOH</span><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/profile" title="" class="menu__link">Profile</a></li>
+<li class="menu__item is-leaf leaf"><a href="/milestones" title="" class="menu__link">Milestones</a></li>
+<li class="menu__item is-leaf leaf"><a href="/mission-vision" title="" class="menu__link">Mission and Vision</a></li>
+<li class="menu__item is-leaf leaf"><a href="/organizational-chart" title="" class="menu__link">Organizational Chart</a></li>
+<li class="menu__item is-leaf leaf"><a href="/doh-family" title="" class="menu__link">DOH Family</a></li>
+<li class="menu__item is-leaf leaf"><a href="/executive-committee-directory" title="" class="menu__link">Key Officials Directory</a></li>
+<li class="menu__item is-leaf leaf"><a href="/doh-budget" title="" class="menu__link">DOH Budget</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/location-map" title="" class="menu__link">DOH Location Map</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf"><a href="/kalusugang-pangkalahatan" title="" class="menu__link">Universal Health Care</a></li>
+<li class="menu__item is-expanded last expanded"><span title="" class="menu__link nolink">Policies and Laws</span><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://recordsvr.doh.gov.ph/appnet/public/p/ai/searchall.htm" title="" class="menu__link">RAs, EOs, AOs, IRRs, MCs, DCs</a></li>
+<li class="menu__item is-leaf leaf"><a href="/republic-act-2010-2012" title="" class="menu__link">Republic Act 2010-2012</a></li>
+<li class="menu__item is-leaf leaf"><a href="/house-bills" title="" class="menu__link">House Bills</a></li>
+<li class="menu__item is-leaf leaf"><a href="/notice-of-pubic-hearing" title="" class="menu__link">Notice of Public Hearing</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/links" title="" class="menu__link">Links</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+      </div>
+                    <div class="columns large-3">
+            <div class="region region-footer-2">
+    <div id="block-menu-menu-footer-2" class="block block-menu first last odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-expanded first expanded"><span title="" class="menu__link nolink">Information Resources</span><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/publications" title="" class="menu__link">Publications</a></li>
+<li class="menu__item is-leaf leaf"><a href="/libraries-and-resource-center" title="" class="menu__link">Libraries and Resource Centers</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/interactive-radiology" title="" class="menu__link">Learning Packages</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><span title="" class="menu__link nolink">Secretary&#039;s Corner</span><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/node/57" title="" class="menu__link">Secretary Francisco Duque, III</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/doh-secretaries" title="" class="menu__link">The DOH Secretaries</a></li>
+</ul></li>
+<li class="menu__item is-leaf last leaf"><a href="/press-releases" title="" class="menu__link">Press Releases</a></li>
+</ul>
+</div>
+  </div>
+        </div>
+                  <div class="columns large-3">
+          <div class="region region-footer-3">
+    <div id="block-menu-menu-footer-3" class="block block-menu first last odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://ejobs.doh.gov.ph/ejobs/" title="" class="menu__link">Careers</a></li>
+<li class="menu__item is-leaf leaf"><a href="/doing-business" title="" class="menu__link">Doing Business</a></li>
+<li class="menu__item is-leaf leaf"><a href="/networks" title="" class="menu__link">Networks</a></li>
+<li class="menu__item is-leaf leaf"><a href="/templates" title="" class="menu__link">Templates</a></li>
+<li class="menu__item is-leaf leaf"><a href="/health-promotion" title="" class="menu__link">Health Promotions</a></li>
+<li class="menu__item is-leaf leaf"><span title="" class="menu__link nolink">Databases</span></li>
+<li class="menu__item is-leaf leaf"><a href="/integrity-watch" title="" class="menu__link">Integrity Watch</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/PrivacyPolicy" title="" class="menu__link">Privacy Policy</a></li>
+</ul>
+</div>
+  </div>
+      </div>
+                  <div class="columns large-3">
+          <div class="region region-footer-4">
+    <div id="block-block-1" class="block block-block first odd">
+
+      
+   <div id="contact-info"><h4>Contact Information</h4><p>San Lazaro Compound, Tayuman, Sta. Cruz, Manila<br />Philippines 1003</p><p><strong>Telephone No.</strong> (632) 8651-7800</p><p><a href="//www.doh.gov.ph/contact" target="_blank"><span style="color:#ffffff;"><span style="font-size: 14px;"><b>DOH Call Center</b></span></span></a><br /><strong style="font-size: 13.008px;">Telephone No:</strong><span style="font-size: 13.008px;"> (632) 8651-7800 local 5003-5004 </span><br /><span style="font-size: 13.008px;">                        (632) 165-364</span><br /><span style="font-size: 13.008px;"><b>Mobile No (DOH Main Office): </b>+63918-8888364</span><br /><strong style="font-size: 13.008px;">Email Address:</strong><span style="font-size: 13.008px;"> callcenter@doh.gov.ph | doh.callcenter@gmail.com</span></p></div><p> </p> 
+</div>
+<div id="block-block-2" class="block block-block last even">
+
+        <h3 class="block__title block-title">Connect with us</h3>
+    
+   <p><a class="facebook-ico" href="https://www.facebook.com/OfficialDOHgov"> </a> <a class="twitter-ico" href="https://twitter.com/officialdohgov"> </a> <a class="youtube-ico" href="https://www.youtube.com/channel/UChZQaAATaHjT_wG-kac3qfA"> </a></p> 
+</div>
+  </div>
+      </div>
+          </div>
+  </footer>
+    <div id="gwt-standard-footer"></div>
+  <script type="text/javascript">
+  (function(d, s, id) {
+    var js, gjs = d.getElementById('gwt-standard-footer');
+
+      js = d.createElement(s); js.id = id;
+      js.src = "//cdn.i.gov.ph/gwt-footer/footer.js";
+      gjs.parentNode.insertBefore(js, gjs);
+  }(document, 'script', 'gwt-footer-jsdk'));
+  </script>
+  <div><a href="#page" id="back-to-top">Back to Top</a></div>
+</div>
+  <!-- Piwik --> <script type="text/javascript"> var _paq = _paq || []; _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="//analytics.i.gov.ph/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 32]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); })(); </script> <noscript><p><img src="//analytics.i.gov.ph/piwik.php?idsite=32" style="border:0;" alt="" /></p></noscript> <!-- End Piwik Code -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116918561-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-116918561-1');
+</script>
+</body>
+</html>

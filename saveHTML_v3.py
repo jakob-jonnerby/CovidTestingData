@@ -1,0 +1,88 @@
+import urllib.request, urllib.error, urllib.parse
+from datetime import date, datetime
+import os
+import ssl
+import re
+import pandas as pd
+from openpyxl import load_workbook
+from extractCountries import extractSA, extractLatvia, extractKO, extractPH, extractMY
+from bs4 import BeautifulSoup
+
+ssl._create_default_https_context = ssl._create_unverified_context
+
+
+def UtcNow():
+    now = datetime.utcnow()
+    return (now - datetime(1970, 1, 1)).total_seconds()
+
+
+def CheckCreateFolder(folder):
+
+    CHECK_FOLDER = os.path.isdir(folder)
+    # If folder doesn't exist, then create it.
+    if not CHECK_FOLDER:
+        os.makedirs(folder)
+        print("created folder : ", folder)
+
+
+# Read in setup sheet
+xl_file = pd.ExcelFile('Covidsetup.xlsx')
+
+dfs = {sheet_name: xl_file.parse(sheet_name) 
+          for sheet_name in xl_file.sheet_names}
+
+curator = dfs['Countries']['curator'].iloc[0]
+func_dict = {'South Africa': extractSA, 'Latvia': extractLatvia,
+             'South Korea': extractKO, 'Philippines': extractPH,
+             'Malaysia': extractMY}
+
+for idx in range(0, len(dfs['Countries'].index)):
+#for idx in [4]:
+
+    # Get country name and setup folder
+    country = dfs['Countries']['Country'].iloc[idx]
+    print(country)
+    CheckCreateFolder(country)
+    url = dfs['Countries']['Link'].iloc[idx]
+
+    # Read in websit
+    response = urllib.request.urlopen(url)
+    webContent = response.read()
+
+    saveFile = True
+    if saveFile is True:
+        filename = ''.join(['gov-',country,'-',str(date.today()), '-', str(round(UtcNow()))])
+        f = open('./'+country+'/'+filename, 'wb')
+        f.write(webContent)
+        f.close
+    
+        f = open('./'+country+'/'+filename+'.txt', 'wb')
+        f.write(webContent)
+        f.close
+
+    printToExcel = dfs['Countries']['printToExcel'].iloc[idx]
+    if printToExcel == 1:
+
+        # Automatically extract number of tested and positive from website
+        soup = BeautifulSoup(webContent, "html.parser")
+        numTested, numPos = func_dict[country](soup)
+        print(numTested, numPos)
+
+        # Create DataFrame with Excel spreadsheet form
+        Data = pd.DataFrame({'source':[url], 'location':[country], 'report':[filename], 'reportDate':['NA'], 'dateinterval':['NA'], 'entryDate':[str(date.today())], 'exitDate':['NA'], 'curator':[curator], 'numberTests':[numTested], 'isCumulative':['TRUE'], 'numberPositive': [numPos], 'numberSuspectedAndConfirmed':['NA'], 'numberSuspected':['NA']})
+        
+        writer = pd.ExcelWriter('Coviddata.xlsx', engine='openpyxl')
+        writer.book = load_workbook('Coviddata.xlsx')
+        
+        # copy existing sheets
+        writer.sheets = dict((ws.title, ws) for ws in writer.book.worksheets)
+        
+        # read existing file
+        reader = pd.read_excel(r'Coviddata.xlsx')
+        
+        # write out the new sheet
+        Data.to_excel(writer,index=False,header=False,startrow=len(reader)+1)
+        writer.save()
+        writer.close()
+
+
